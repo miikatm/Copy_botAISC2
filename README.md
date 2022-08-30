@@ -1,3 +1,7 @@
+BOT FOLDER INCLUDES THE REAL AI-FILES
+
+RULES AND INSTRUCTIONS BELOW
+
 # The Artificial Overmind Challenge by Reaktor starter kit
 
 [Join the official Discord server for the competition!](https://discord.gg/D9XEhWY)
